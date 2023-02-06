@@ -1,0 +1,24 @@
+1. Object − Objects have states and behaviors. Example: A dog has states - color, name, breed as well as behaviors – wagging the tail, barking, eating. An object is an instance of a class.
+
+Class − A class can be defined as a template/blueprint that describes the behavior/state that the object of its type support.
+
+2. These four pillars are Inheritance, Polymorphism, Encapsulation and Abstraction.
+
+3.The python __init__ method is declared within a class and is used to initialize the attributes of an object as soon as the object is formed. 
+	for example.
+    class class_name():
+           
+          def __init__(self):
+                  # Required initialisation for data members
+ 
+          # Class methods
+
+4. The self variable is used to represent the instance of the class which is often used in object-oriented programming. It works as a reference to the object. Python uses the self parameter to refer to instance attributes and methods of the class.
+
+5.Inheritance is a mechanism in which one class acquires the property of another class. For example, a child inherits the traits of his/her parents. With inheritance, we can reuse the fields and methods of the existing class. Hence, inheritance facilitates Reusability and is an important concept of OOPs.
+ example
+ .single inheritance
+ .multiple inheritance
+ .multilevel inheritance
+ .hierarchical inheritance
+ .hybrid inheritance
